@@ -1,4 +1,4 @@
-# vue-cli-spa
+# Blog Vue Client
 
 ## Project setup
 ```
